@@ -16,5 +16,8 @@ navigation:
   - name: about
     id: 5aef39a3-610f-4379-a4ce-3243f5aad797
     type: content
+  - name: Vietnam
+    id: 5d33ed3b-c770-40aa-b136-0089685e96e7
+    type: content
 title: Wide
 description: Simplify IT Complexity
