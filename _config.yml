@@ -1,4 +1,3 @@
-layout_spectrum: 0.1212068
 typography_spectrum: 0.8080337
 color:
   saturation: 0.1741664
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.1212068
 name: wide
 title: Wide
+description: Simplify IT Complexity
