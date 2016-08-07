@@ -1,17 +1,26 @@
-typography_spectrum: 0.8080337
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.1741664
-  lightness: 0.6252754
+  saturation: 0.7402052
   brandStrength: 0.05297514
-  rhythmicContrast: 0.1450003
+  lightness: 0.2709888
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-layout_spectrum: 0.1212068
+  rhythmicContrast: 0.8232276
+typography_spectrum: 0.4636194
+layout_spectrum: 0.4291045
 name: wide
-navigation: []
-title: Wide
-description: Simplify IT Complexity
