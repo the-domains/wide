@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wide]]></title>
-        <description><![CDATA[wide]]></description>
+        <title><![CDATA[Wide]]></title>
+        <description><![CDATA[Wide]]></description>
         <link>https://thegrid.ai/wide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 10:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 10:19:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wide/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Saigon, Vietnam]]></title>
-            <description><![CDATA[<article><h1>Saigon, Vietnam</h1><p>In 2013 we opened our office in Saigon Vietnam.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de9185a-f386-4152-b73c-298777e81f95.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wide/5d33ed3b-c770-40aa-b136-0089685e96e7/index.html</link>
-            <guid isPermaLink="false">5d33ed3b-c770-40aa-b136-0089685e96e7</guid>
-            <pubDate>Sun, 07 Aug 2016 10:14:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84c95817-fef9-4bb7-ac7a-6cf437b5fef2.jpg">]]></description>
