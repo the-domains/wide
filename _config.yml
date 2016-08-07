@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.1212068
 name: wide
+navigation:
+  - name: about
+    id: 5aef39a3-610f-4379-a4ce-3243f5aad797
+    type: content
 title: Wide
 description: Simplify IT Complexity
