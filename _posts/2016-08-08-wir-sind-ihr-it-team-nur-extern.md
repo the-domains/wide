@@ -1,58 +1,39 @@
 ---
-datePublished: '2016-08-08T15:23:52.929Z'
+datePublished: '2016-08-08T15:32:34.436Z'
 sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T15:23:52.350Z'
-title: Wir sind Ihr IT Team - nur extern.
+dateModified: '2016-08-08T15:32:33.435Z'
+title: Kundenorientierung
 publisher: {}
 description: >-
-  Unternehmen gelangen an uns mit ihren IT Problemen, klein oder gross, und wir
-  helfen, diese zu identifizieren und bieten eine passende Antwort - vom
-  einfachen Ratschlag bis zu komplexen Lösungen und Support und alles
-  dazwischen. Wir kombinieren technische Kompetenz mit sicherem und robustem
-  Service und ermöglichen Ihnen mit einer stabilen IT-Umgebung, Ihren Fokus auf
-  Ihre Kernkompetenzen zu richten. Unsere Kunden Bereits seit vielen Jahren
-  gestalten, erweitern und managen wir die IT Systeme unserer Kunden. Dazu
-  gehören vielfach KMU unterschiedlichster Art und Grösse, ebenso wie
-  öffentliche Einrichtungen, Schulen und dynamische multinationale Unternehmen
-  bis hin zu Privatbanken und Non-Profit Organisationen. Wir beraten und bieten
-  Support für eine nationale und internationale Klientel. Wir sind stolz darauf,
-  dass wir viele davon bereits seit Jahren begleiten und als flexibler Partner
-  bekannt sind. Wir möchten durch den Aufbau guter Beziehungen und in enger
-  Zusammenarbeit zu Ihrem IT Team werden. Zu einem Partner, der Ihre Bedürfnisse
-  und Anforderungen kennt und versteht und damit in der Lage ist, Ihnen eine
-  intelligentere und kosteneffizientere IT anzubieten.
-starred: true
+  Motivierte und kompetente Mitarbeiter sind der Motor unseres Unternehmens.
+  Unsere Mitarbeiter glauben an unsere Vision.
+starred: false
 url: wir-sind-ihr-it-team-nur-extern/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e0cdec1-34c1-4135-a588-deea48263c3b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f927b52-8bf7-46c7-8b29-e59bb9dd7205.jpg)
 
-### Wir sind Ihr IT Team - nur extern.
+# Kundenorientierung
 
-Unternehmen gelangen an uns mit ihren IT Problemen, klein oder gross, und wir helfen, diese zu identifizieren und bieten eine passende Antwort - vom einfachen Ratschlag bis zu komplexen Lösungen und Support und alles dazwischen. Wir kombinieren technische Kompetenz mit sicherem und robustem Service und ermöglichen Ihnen mit einer stabilen IT-Umgebung, Ihren Fokus auf Ihre Kernkompetenzen zu richten. Unsere Kunden Bereits seit vielen Jahren gestalten, erweitern und managen wir die IT Systeme unserer Kunden. Dazu gehören vielfach KMU unterschiedlichster Art und Grösse, ebenso wie öffentliche Einrichtungen, Schulen und dynamische multinationale Unternehmen bis hin zu Privatbanken und Non-Profit Organisationen. Wir beraten und bieten Support für eine nationale und internationale Klientel. Wir sind stolz darauf, dass wir viele davon bereits seit Jahren begleiten und als flexibler Partner bekannt sind. Wir möchten durch den Aufbau guter Beziehungen und in enger Zusammenarbeit zu Ihrem IT Team werden. Zu einem Partner, der Ihre Bedürfnisse und Anforderungen kennt und versteht und damit in der Lage ist, Ihnen eine intelligentere und kosteneffizientere IT anzubieten.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3ebad9f-93db-4227-bb0e-e44f3d813360.jpg)
+### Wir richten unsere Produkte und Dienstleistungen auf die Anforderungen unserer Kunden aus.Wir sind für unsere Kunden ein flexibler und verlässlicher Partner. Wir stellen eine langfristige Kundenbeziehung über den kurzfristigen Erfolg. An der Zufriedenheit und Loyalität unserer Kunden wollen wir uns messen lassen.
 
-### Unser Angebot
+# Ergebnisorientierung
 
-Wir bieten Ihnen das Know-How und die Ressourcen, damit Ihre IT funktioniert. Wir unterstützen bei der Identifizierung und Entwicklung von IT Bedürfnissen, stehen als Projektmanager zur Seite und erledigen die erforderlichen Implementierungen.
+### Wir sind ein ergebnisorientiertes Unternehmen. Mit wirtschaftlichem Erfolg und solider finanzieller Basis wollen wir für uns die Entwicklung und das Wachstum gewährleisten.
 
-Zusätzlich bieten wir IT Management & Support --- in Kombination oder mit separatem IT Helpdesk und flexible Ressourcen z.B. für Ferienabwesenheiten, Projektengpässe oä.
+# Qualität
 
-Wir planen, beziehen, überwachen und übernehmen das Management von Hard-und Software und ganzen Netzwerken: vor Ort, hybrid, als Cloudlösung oder in der gewünschten Kombination.
+### Nur wenn unsere Abläufe und Produkte funktionieren, können wir hochwertige Dienstleistungen erbringen.Wir lassen uns an dem reibungslosen Ablauf von Projekten und der Verfügbarkeit der von uns entwickelten Lösungen messen.
 
-Zudem unterstützen wir bei der Lizenzierung von Software, Internet-Anschlüssen, Backup & Disaster Recovery und dem Management und Support
+### Nur mit einem kontinuierlich hohen Qualitätsniveau können wir unseren Kunden ein überzeugender Partner sein.
 
-von Cloud-Services wie z.B. Office 365, Azure und Google Apps.
+# Mitarbeiter
 
-### Partner
+Motivierte und kompetente Mitarbeiter sind der Motor unseres Unternehmens. Unsere Mitarbeiter glauben an unsere Vision.
 
-Wir gehen Partnerschaften mit Unternehmen ein, die unsere strategischen Ziele unterstützen.
-
-Unsere Partner wählen wir nach der Qualität ihrer Produkte, nach ihrer Zuverlässigkeit und ihrer Wettbewerbsfähigkeit aus.
-
-Wir streben mit unseren Partnern eine dauerhafte und faire Kooperation an, um gemeinsame Erfolge langfristig sichern zu können.
+Auf der Basis der nötigen Freiräume und des gegenseitigen Vertrauens schaffen wir dafür die Basis.
