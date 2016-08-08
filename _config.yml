@@ -1,28 +1,26 @@
-typography_spectrum: 0.4636194
-color:
-  saturation: 0.1856343
-  brandStrength: 0.9333022
-  lightness: 0.3936567
-  brandColors:
-    - '#1D1D1B'
-    - '#DEDEDE'
-    - '#656B69'
-    - '#74120C'
-    - '#E80211'
-  rhythmicContrast: 0.1459888
-layout_spectrum: 0.4962687
-name: wide
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Wide
-description: Simplify Complexity
+color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#1D1D1B'
+    - '#DEDEDE'
+    - '#656B69'
+    - '#74120C'
+    - '#E80211'
+  rhythmicContrast: 0
+typography_spectrum: 0.4636194
+layout_spectrum: 0.734767
+name: wide
