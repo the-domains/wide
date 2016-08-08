@@ -16,6 +16,9 @@ navigation:
   - name: our vision
     id: 2609109e-638f-4d19-8136-cba8160d5e3e
     type: content
+  - name: about us
+    id: 5e759759-266a-4fd5-9f6d-76f0fee315a7
+    type: content
 collections:
   - index:
       path: /
