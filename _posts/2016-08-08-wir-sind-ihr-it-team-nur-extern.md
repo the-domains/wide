@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T14:06:58.233Z'
+datePublished: '2016-08-08T14:49:04.762Z'
 sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:06:57.642Z'
+dateModified: '2016-08-08T14:49:03.858Z'
 title: Wir sind Ihr IT Team - nur extern.
 publisher: {}
 description: >-
@@ -30,8 +30,6 @@ url: wir-sind-ihr-it-team-nur-extern/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf3672d1-662e-4723-9a32-c5e2d87b6b83.jpg)
-
 ### Wir sind Ihr IT Team - nur extern.
 
 Unternehmen gelangen an uns mit ihren IT Problemen, klein oder gross, und wir helfen, diese zu identifizieren und bieten eine passende Antwort - vom einfachen Ratschlag bis zu komplexen Lösungen und Support und alles dazwischen. Wir kombinieren technische Kompetenz mit sicherem und robustem Service und ermöglichen Ihnen mit einer stabilen IT-Umgebung, Ihren Fokus auf Ihre Kernkompetenzen zu richten. Unsere Kunden Bereits seit vielen Jahren gestalten, erweitern und managen wir die IT Systeme unserer Kunden. Dazu gehören vielfach KMU unterschiedlichster Art und Grösse, ebenso wie öffentliche Einrichtungen, Schulen und dynamische multinationale Unternehmen bis hin zu Privatbanken und Non-Profit Organisationen. Wir beraten und bieten Support für eine nationale und internationale Klientel. Wir sind stolz darauf, dass wir viele davon bereits seit Jahren begleiten und als flexibler Partner bekannt sind. Wir möchten durch den Aufbau guter Beziehungen und in enger Zusammenarbeit zu Ihrem IT Team werden. Zu einem Partner, der Ihre Bedürfnisse und Anforderungen kennt und versteht und damit in der Lage ist, Ihnen eine intelligentere und kosteneffizientere IT anzubieten.
