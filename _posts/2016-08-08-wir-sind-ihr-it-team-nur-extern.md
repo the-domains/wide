@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T15:11:11.037Z'
+datePublished: '2016-08-08T15:23:22.968Z'
 sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T15:11:10.184Z'
+dateModified: '2016-08-08T15:23:21.923Z'
 title: ''
 publisher: {}
 description: Kundenorientierung
