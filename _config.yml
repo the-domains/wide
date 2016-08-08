@@ -1,26 +1,3 @@
-typography_spectrum: 0.4636194
-color:
-  saturation: 0.7402052
-  brandStrength: 0.9333022
-  lightness: 0.6515858
-  brandColors:
-    - '#1D1D1B'
-    - '#DEDEDE'
-    - '#656B69'
-    - '#74120C'
-    - '#E80211'
-  rhythmicContrast: 0.8232276
-layout_spectrum: 0.02425373
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee387a6e-afc1-481c-9fc3-7c6a14975ac3.jpg
-name: wide
-navigation:
-  - name: SIMPLIFY IT
-    id: 5e759759-266a-4fd5-9f6d-76f0fee315a7
-    type: content
-  - name: ABOUT US
-    id: 2609109e-638f-4d19-8136-cba8160d5e3e
-    type: content
 collections:
   - index:
       path: /
@@ -33,3 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.4636194
+color:
+  saturation: 0.1856343
+  brandStrength: 0.9333022
+  lightness: 0.3936567
+  brandColors:
+    - '#1D1D1B'
+    - '#DEDEDE'
+    - '#656B69'
+    - '#74120C'
+    - '#E80211'
+  rhythmicContrast: 0.1459888
+layout_spectrum: 0.02425373
+name: wide
