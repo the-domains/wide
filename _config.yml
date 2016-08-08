@@ -28,3 +28,6 @@ navigation:
   - name: SIMPLIFY IT
     id: 5e759759-266a-4fd5-9f6d-76f0fee315a7
     type: content
+  - name: ABOUT US
+    id: 2609109e-638f-4d19-8136-cba8160d5e3e
+    type: content
