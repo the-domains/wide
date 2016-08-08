@@ -36,4 +36,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Wide
 description: Simplify IT's Complexity
