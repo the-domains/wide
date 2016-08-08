@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T13:20:22.842Z'
+datePublished: '2016-08-08T13:21:10.101Z'
 sourcePath: >-
   _posts/2016-08-07-wide-was-founded-in-switzerland-in-2004-in-2013-we-opened-o.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:19:38.735Z'
+dateModified: '2016-08-08T13:21:09.307Z'
 title: ''
 publisher: {}
 description: >-
