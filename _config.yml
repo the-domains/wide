@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4636194
 color:
   saturation: 0.7402052
-  brandStrength: 0.05297514
-  rhythmicContrast: 0.8232276
+  brandStrength: 0.9333022
+  lightness: 0.6515858
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  lightness: 0.2709888
+    - '#1D1D1B'
+    - '#DEDEDE'
+    - '#656B69'
+    - '#74120C'
+    - '#E80211'
+  rhythmicContrast: 0.8232276
+typography_spectrum: 0.4636194
 layout_spectrum: 0.02425373
 name: wide
