@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.4636194
 color:
   saturation: 0.1856343
@@ -24,4 +12,17 @@ color:
   rhythmicContrast: 0.1459888
 layout_spectrum: 0.4962687
 name: wide
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 title: Wide
+description: Simplify Complexity
