@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-08T14:05:21.319Z'
+datePublished: '2016-08-08T14:55:26.424Z'
 sourcePath: >-
   _posts/2016-08-07-wide-was-founded-in-switzerland-in-2004-in-2013-we-opened-o.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:05:20.601Z'
+dateModified: '2016-08-08T14:55:25.754Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   their IT, so that they can concentrate on their business.
 starred: false
 url: wide-was-founded-in-switzerland-in-2004-in-2013-we-opened-o/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c7c5e6e-259a-4508-a6f3-2cba77688fda.jpg)
