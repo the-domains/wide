@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wide]]></title>
-        <description><![CDATA[wide]]></description>
+        <title><![CDATA[Simplify IT's Complexity]]></title>
+        <description><![CDATA[Simplify IT's Complexity]]></description>
         <link>https://thegrid.ai/wide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 15:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 15:11:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wide/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wir sind Ihr IT Team - nur extern.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/wide/wir-sind-ihr-it-team-nur-extern/index.html</link>
             <guid isPermaLink="false">5e759759-266a-4fd5-9f6d-76f0fee315a7</guid>
             <pubDate>Mon, 08 Aug 2016 15:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wir sind Ihr IT Team - nur extern.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f927b52-8bf7-46c7-8b29-e59bb9dd7205.jpg">]]></description>
+            <link>https://thegrid.ai/wide/wir-sind-ihr-it-team-nur-extern/index.html</link>
+            <guid isPermaLink="false">2609109e-638f-4d19-8136-cba8160d5e3e</guid>
+            <pubDate>Mon, 08 Aug 2016 15:11:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
