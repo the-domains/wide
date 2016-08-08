@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4636194
 color:
   saturation: 0.7402052
   brandStrength: 0.05297514
-  lightness: 0.2709888
+  rhythmicContrast: 0.8232276
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.8232276
-typography_spectrum: 0.4636194
-layout_spectrum: 0.4291045
+  lightness: 0.2709888
+layout_spectrum: 0.02425373
 name: wide
