@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 0.1459888
 layout_spectrum: 0.4962687
 name: Wide
+navigation:
+  - name: our vision
+    id: 2609109e-638f-4d19-8136-cba8160d5e3e
+    type: content
 collections:
   - index:
       path: /
