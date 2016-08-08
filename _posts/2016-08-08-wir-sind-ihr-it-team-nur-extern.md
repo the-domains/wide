@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T12:52:41.058Z'
+datePublished: '2016-08-08T12:56:02.997Z'
 sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 author: []
 via: {}
-dateModified: '2016-08-08T12:52:40.530Z'
+dateModified: '2016-08-08T12:56:02.871Z'
 title: Wir sind Ihr IT Team - nur extern.
 publisher: {}
 description: >-
