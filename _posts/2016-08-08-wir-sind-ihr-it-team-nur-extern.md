@@ -1,7 +1,9 @@
 ---
+datePublished: '2016-08-08T12:37:08.898Z'
+sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 author: []
-dateModified: '2016-08-08T00:35:56.516Z'
 via: {}
+dateModified: '2016-08-08T12:37:08.299Z'
 title: Wir sind Ihr IT Team - nur extern.
 publisher: {}
 description: >-
@@ -21,9 +23,7 @@ description: >-
   Zusammenarbeit zu Ihrem IT Team werden. Zu einem Partner, der Ihre Bedürfnisse
   und Anforderungen kennt und versteht und damit in der Lage ist, Ihnen eine
   intelligentere und kosteneffizientere IT anzubieten.
-datePublished: '2016-08-08T00:36:46.269Z'
 starred: false
-sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 inFeed: true
 hasPage: false
 inNav: false
