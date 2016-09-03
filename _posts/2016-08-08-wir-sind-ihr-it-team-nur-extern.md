@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T20:51:08.669Z'
+datePublished: '2016-08-31T20:53:01.749Z'
 sourcePath: _posts/2016-08-08-wir-sind-ihr-it-team-nur-extern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:51:08.191Z'
+dateModified: '2016-08-31T20:53:01.127Z'
 title: Wir sind Ihr IT Team - nur extern.
 publisher: {}
 description: 'von Cloud-Services wie z.B. Office 365, Azure und Google Apps.'
